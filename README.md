@@ -141,7 +141,7 @@ paper:
 | Target soft-update τ | 1e-4              |
 | ε-decay              | 200,000           |
 | γ                    | 0.99              |
-| Bound mode           | 5 (game floor)    |
+| Bound mode           | 4                 |
 
 Atari games covered (paper Table 1): `Amidar, Asterix, Boxing, Breakout,
 ChopperCommand, Gopher, KungFuMaster, MsPacman, Pong, Qbert, RoadRunner,
